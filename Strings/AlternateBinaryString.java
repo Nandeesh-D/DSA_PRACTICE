@@ -1,5 +1,5 @@
 package Strings;
-//problem: 
+//problem: 1758
 public class AlternateBinaryString {
     public static void main(String[] args) {
         String s="10010100";
